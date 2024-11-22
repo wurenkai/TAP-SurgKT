@@ -5,7 +5,7 @@
   </p>
     <p align="center">
       1. Department of General Surgery, Shanghai Key Laboratory of Gastric Neoplasms, Shanghai Institute of Digestive Surgery, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine</br>
-      2. School of Microelectronics,Shanghai University</br>
+      2. School of Microelectronics, Shanghai University</br>
   </p>
 </p>
 
